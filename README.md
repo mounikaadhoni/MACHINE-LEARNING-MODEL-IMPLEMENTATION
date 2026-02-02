@@ -12,8 +12,7 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-DESCRIPTION:Machine Learning Model Implementation 
-
+DESCRIPTION:Machine Learning Model Implementation -Codtech It Solutiond Pvt
 
 Overview
 
